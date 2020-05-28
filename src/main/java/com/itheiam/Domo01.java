@@ -9,5 +9,6 @@ public class Domo01 {
         System.out.println("大傻逼");
 
         System.out.println("222222222");
+        System.out.println("222222222233333213333331");
     }
 }
