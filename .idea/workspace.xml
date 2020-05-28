@@ -11,16 +11,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheiam/Domo01.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="200">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="225">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+=======
+            <state relative-caret-position="250">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+>>>>>>> 1e60ab82fddaeb5f945200144ae853bf7f1bc201
+>>>>>>> a7f9f0d1d9ae7355e6e1ae487ef2720b4c3cb9cf
             </state>
           </provider>
         </entry>
@@ -48,42 +57,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="pro1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pro1" type="462c0819:PsiDirectoryNode" />
+              <item name="pro3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pro1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pro1" type="462c0819:PsiDirectoryNode" />
+              <item name="pro3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pro1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pro1" type="462c0819:PsiDirectoryNode" />
+              <item name="pro3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pro1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pro1" type="462c0819:PsiDirectoryNode" />
+              <item name="pro3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pro1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pro1" type="462c0819:PsiDirectoryNode" />
+              <item name="pro3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pro1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pro1" type="462c0819:PsiDirectoryNode" />
+              <item name="pro3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pro3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -94,8 +105,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,7 +134,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590688389450</updated>
+<<<<<<< HEAD
       <workItem from="1590688390743" duration="1452000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1590688390743" duration="549000" />
+      <workItem from="1590689237646" duration="243000" />
+=======
+      <workItem from="1590688390743" duration="1077000" />
+>>>>>>> 1e60ab82fddaeb5f945200144ae853bf7f1bc201
+>>>>>>> a7f9f0d1d9ae7355e6e1ae487ef2720b4c3cb9cf
     </task>
     <task id="LOCAL-00001" summary="测试2">
       <created>1590688421336</created>
@@ -141,6 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590688591153</updated>
     </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00003" summary="10">
+      <created>1590689265460</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590689265460</updated>
+    </task>
+    <task id="LOCAL-00004" summary="10">
+      <created>1590689343926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590689343926</updated>
+=======
     <task id="LOCAL-00003" summary="测试5">
       <created>1590688946331</created>
       <option name="number" value="00003" />
@@ -154,6 +187,7 @@
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1590689047688</updated>
+>>>>>>> 1e60ab82fddaeb5f945200144ae853bf7f1bc201
     </task>
     <task id="LOCAL-00005" summary="测试5">
       <created>1590689502044</created>
@@ -173,23 +207,33 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="448" y="3" width="995" height="822" extended-state="0" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="792000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="14" width="996" height="823" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="1077000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="448" y="3" width="995" height="822" extended-state="0" />
+>>>>>>> 1e60ab82fddaeb5f945200144ae853bf7f1bc201
+    <editor active="true" />
+>>>>>>> a7f9f0d1d9ae7355e6e1ae487ef2720b4c3cb9cf
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3289855" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -197,15 +241,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989339" visible="true" weight="0.32850942" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.32850942" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,17 +263,36 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试2" />
     <MESSAGE value="测试3" />
+<<<<<<< HEAD
+    <MESSAGE value="10" />
+    <option name="LAST_COMMIT_MESSAGE" value="10" />
+=======
     <MESSAGE value="测试5" />
+<<<<<<< HEAD
     <MESSAGE value="222" />
     <MESSAGE value="11111111111" />
     <MESSAGE value="尹志伟更爱" />
     <option name="LAST_COMMIT_MESSAGE" value="尹志伟更爱" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="测试5" />
+>>>>>>> 1e60ab82fddaeb5f945200144ae853bf7f1bc201
+>>>>>>> a7f9f0d1d9ae7355e6e1ae487ef2720b4c3cb9cf
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itheiam/Domo01.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="200">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+=======
+        <state relative-caret-position="250">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+>>>>>>> 1e60ab82fddaeb5f945200144ae853bf7f1bc201
+>>>>>>> a7f9f0d1d9ae7355e6e1ae487ef2720b4c3cb9cf
         </state>
       </provider>
     </entry>
