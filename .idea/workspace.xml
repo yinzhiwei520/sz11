@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8f83c4b-1593-4580-aa41-39db1c674f4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheiam/Domo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheiam/Domo01.java" afterDir="false" />
-    </list>
+    <list default="true" id="b8f83c4b-1593-4580-aa41-39db1c674f4f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheiam/Domo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="250">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -128,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590688389450</updated>
-      <workItem from="1590688390743" duration="549000" />
+      <workItem from="1590688390743" duration="1077000" />
     </task>
     <task id="LOCAL-00001" summary="测试2">
       <created>1590688421336</created>
@@ -144,14 +141,29 @@
       <option name="project" value="LOCAL" />
       <updated>1590688591153</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试5">
+      <created>1590688946331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590688946331</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试5">
+      <created>1590689047688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590689047688</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="549000" />
+    <option name="totallyTimeSpent" value="1077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="448" y="3" width="995" height="822" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -189,13 +201,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试2" />
     <MESSAGE value="测试3" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试3" />
+    <MESSAGE value="测试5" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itheiam/Domo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="250">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
